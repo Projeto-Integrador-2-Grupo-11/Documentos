@@ -1,4 +1,4 @@
-<img src="/docs/_media/orange.png" width="auto" height="400" /> 
+<img src="/_media/orange.png" width="auto" height="400" /> 
 
 
 > seletor de frutas.
