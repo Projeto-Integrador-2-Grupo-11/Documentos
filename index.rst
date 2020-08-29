@@ -11,5 +11,4 @@ Bem vindo à documentação do Seletor de Frutas!
    :caption: Conteúdos:
 
    docs/seletor
-   docs/intro/intro
    docs/tap
