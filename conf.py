@@ -22,7 +22,7 @@ from recommonmark.transform import AutoStructify
 
 # -- Project information -----------------------------------------------------
 
-project = 'Test'
+project = 'Seletor de Frutas'
 author = 'Member 1\n Member 1\n Member 1\n Member 1\n Member 1\n Member 1\n Member 1'
 
 
@@ -46,7 +46,7 @@ templates_path = ['_templates']
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'en'
+language = 'pt_BR'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
