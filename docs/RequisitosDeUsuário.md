@@ -1,4 +1,4 @@
-#Sobre este Documento
+# Sobre este Documento
   Este documento foi elaborado de forma a explicitar e consolidar a definição de alguns requisitos de baseline a serem seguidos ao longo da elaboração do projeto. Diante disso, a equipe completa, de 14 membros, uniu-se no dia 04 de setembro, de forma a realizar estas definições para seguir com as próximas etapas do projeto. O documento abaixo contém épicos, que são destrinchados em funcionalidades e estas detalhadas em forma de histórias de usuários.
 
 # Épicos
