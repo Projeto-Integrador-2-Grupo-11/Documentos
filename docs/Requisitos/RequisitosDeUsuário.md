@@ -84,6 +84,16 @@
 |US02| Eu, como produtor, espero que a máquina otimize o tempo de classificação da fruta.||
 |US03|Eu, como usuário, espero que a máquina seja capaz de distinguir a fruta entre boa e ruim||
 |US04|Eu, como usuário, espero que a máquina seja a prova de falhas, quanto a seleção de boas e más frutas.|
+|US05|Eu, como usuário, desejo que os dados sejam apresentados de maneira agradável na interface do sistema||
+|US06|Eu, como usuário, desejo saber quantas frutas foram classificadas e em que tipos||
+|TS01|Usuário deve ser visualizar somente o programa que esteja mostrando os dados, sem mostrar o sistema operacional||
+|TS02|Ao desligar a máquina, o sistema deve desligar a raspberry||
+|TS03|O sistema deve sincronizar o banco de dados local com o banco de dados na núvem,quando houver conexão com a internet, periodicamente||
+|TS04|O sistema deve ser capaz de identificar quando a raspberry tem conexão de internet ativa||
+|TS05|O sistema deve ser capaz de realizar a interpretação dos dados enviados pelos sensores||
+|TS06|O sistema deve ter uma arquitetura que permita a excução de múltiplas tarefas assíncronas||
+|TS07|A máquina deve possuir um botão de reinicar todo o mecânismo||
+|TS08|O banco embarcado no sistema deve ser leve e rápido, não gerando muito esforço de processamento.||
 
 ### F02 - A máquina deve capaz de classificar o tamanho da fruta
 | Código | Descrição | Tipo |
