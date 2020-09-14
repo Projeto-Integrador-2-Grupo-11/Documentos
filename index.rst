@@ -12,3 +12,9 @@ Bem vindo à documentação do Seletor de Frutas!
 
    docs/seletor
    docs/tap
+   docs/Requisitos/requisitos_de_usuario
+   docs/Requisitos/requisitos_de_produto
+   docs/Requisitos/requisitos_de_estrutura
+   docs/Requisitos/requisitos_de_energia
+   docs/Requisitos/requisitos_de_eletronica
+   docs/Requisitos/requisitos_de_software

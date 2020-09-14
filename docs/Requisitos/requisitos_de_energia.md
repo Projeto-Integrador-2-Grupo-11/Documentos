@@ -1,0 +1,1 @@
+# Requisitos de energia
