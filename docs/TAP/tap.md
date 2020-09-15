@@ -4,8 +4,12 @@
 
 ## Justificativa do Projeto
 
+A demanda por produtos agrículas de qualidade aumentou bastante devido ao crescimento dos seus consumidores, seja na modalidade a granel ou em pequenas quantidades, que cada vez mais esperam um padrão específico dos produtos a serem adquiridos. A atual capacidade de detecção, classificação e seperação baseada em trabalho manual apresenta um alto consumo de tempo e custos onerosos, limitando a cadeia de produção de algumas culturas agrículas.
+
+
 
 ## Objetivos do Projeto
+
 
 
 ## Requisitos de Alto Nível
