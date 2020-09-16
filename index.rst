@@ -11,7 +11,7 @@ Bem vindo à documentação do Seletor de Frutas!
    :caption: Conteúdos:
 
    docs/seletor
-   docs/tap
+   docs/TAP/tap
    docs/Requisitos/requisitos_de_usuario
    docs/Requisitos/requisitos_de_produto
    docs/Requisitos/requisitos_de_estrutura

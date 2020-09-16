@@ -44,41 +44,28 @@ A demanda por produtos agrículas de qualidade aumentou bastante devido ao cresc
 
 ### Equipe
 ```eval_rst
-========================================= ========================= ====================
+========================================= ========================= =======================
 **Nome**                                         **Papel**                **GitHub**
-========================================= ========================= ====================
+========================================= ========================= =======================
 Guilherme Siqueira                        Desenvolvedor             `guilhermesiqueira`_
-========================================= ========================= ====================
-Gustavo Barbosa Carvalho                  Coordenador
-========================================= ========================= ====================
-Letícia Marinho de Souza                  Diretora de qualidade
-========================================= ========================= ====================
-Davi Henrique dos Santos                  Diretor de estrutura
-========================================= ========================= ====================
-Giovanna Amorim de Farias                 Diretora de eletrônica
-========================================= ========================= ====================
-Thiago Ferreira                           Diretor de software
-========================================= ========================= ====================
-Lucas Afonso Rodrigues Raimundo           Desenvolvedor
-========================================= ========================= ====================
-Beatriz Freitas Calheira                  Desenvolvedor
-========================================= ========================= ====================
-Camilla Alves de Oliveira                 Desenvolvedor
-========================================= ========================= ====================
-Guilherme Siqueira Brandão                Desenvolvedor
-========================================= ========================= ====================
-João pedro Gomes Cabral Ferreira          Desenvolvedor
-========================================= ========================= ====================
-Lucas Alves Ferreira De Sousa             Desenvolvedor
-========================================= ========================= ====================
-Maria Luiza Ferreira Assumção Almeida     Desenvolvedor
-========================================= ========================= ====================
-Matheus Henrique Almeida de Souza         Desenvolvedor
-========================================= ========================= ====================
-Natália Maria Rodrigues Queiroz           Desenvolvedor
-========================================= ========================= ====================
+Gustavo Barbosa Carvalho                  Coordenador               `gustavocarvalho1002`_
+Letícia Marinho de Souza                  Diretora de qualidade     
+Davi Henrique dos Santos                  Diretor de estrutura      
+Giovanna Amorim de Farias                 Diretora de eletrônica    
+Thiago Ferreira                           Diretor de software       
+Lucas Afonso Rodrigues Raimundo           Desenvolvedor             
+Beatriz Freitas Calheira                  Desenvolvedor             
+Camilla Alves de Oliveira                 Desenvolvedor             
+Guilherme Siqueira Brandão                Desenvolvedor             
+João pedro Gomes Cabral Ferreira          Desenvolvedor             
+Lucas Alves Ferreira De Sousa             Desenvolvedor             
+Maria Luiza Ferreira Assumção Almeida     Desenvolvedor             
+Matheus Henrique Almeida de Souza         Desenvolvedor             
+Natália Maria Rodrigues Queiroz           Desenvolvedor             
+========================================= ========================= =======================
 
 .. _guilhermesiqueira: https://github.com/guilhermesiqueira
+.. _gustavocarvalho1002: https://github.com/gustavocarvalho1002
 ```
 
 ### Colaboradores
