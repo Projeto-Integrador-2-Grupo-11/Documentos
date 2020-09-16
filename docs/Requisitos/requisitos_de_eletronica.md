@@ -26,12 +26,12 @@
  - A cancela deve ter velocidade suficiente para setar as rotas, sem
    prejudicar o fluxo da esteira.
 
-**Chaveamento da Máquina**
+**Chaveamento da Máquina:**
  - O chaveamento deve ser capaz de controlar a alimentação do
    maquinário;
  - O chaveamento deve ser capaz de controlar o acionamento do motor.
 
-**Microcontrolador** 
+**Microcontrolador:** 
  - O microcontrolador deve ter uma alimentação compatível ao sistema;
  - O microcontrolador deve ter uma comunicação estável com seus
    periféricos;
