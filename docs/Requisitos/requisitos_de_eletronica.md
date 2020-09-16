@@ -1,5 +1,4 @@
 # Requisitos de eletrônica
-<![endif]-->
 
 **Câmeras:** 
  - As câmeras devem ser capazes de captar múltiplas imagens em um curto
