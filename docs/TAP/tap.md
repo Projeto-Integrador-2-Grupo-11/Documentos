@@ -102,8 +102,6 @@ O objetivo da nossa solução é proporcionar ao agricultor, de médio e pequeno
 ## Referências
 
 
-http://lta.poli.usp.br/lta/publicacoes/artigos/2014/gurjao-mata-e-duarte-2014-classificacao-automatica-de-frutas-por-analise-de-imagem-o-caso-da-manga-tommy-atkins/at_download/file
+ABBAS, Hafiz Muhammad Tayyab; SHAKOOR, Usama; KHAN, Muhammad Jaleed; AHMED, Mushtaq; KHURSHID, Khurram. Automated Sorting and Grading of Agricultural Products based on Image Processing. IEEE, Karachi, Paquistão, p. 78-81, 16 nov. 2019. DOI 10.1109/ICICT47744.2019.9001971. Disponível em: https://ieeexplore.ieee.org/document/9001971/authors#authors. Acesso em: 17 set. 2020.
 
-https://link.springer.com/article/10.1007/s11119-019-09667-5
-
-https://cigrjournal.org/index.php/Ejounral/article/view/611/605
+Gurjão, Mata e Duarte. Classificação automática de frutas por análise de imagem – o caso da manga Tommy Atkins. Em: Memórias do VIII Workshop de Tecnologia Adaptativa – WTA 2014. EPUSP, São Paulo, ISBN: 978-85-86686-76-4, pp. 77-91. 06 e 07 de Fevereiro de 2014.
