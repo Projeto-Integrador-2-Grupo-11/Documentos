@@ -27,3 +27,4 @@ Diante disso, os requisitos abaixo, são elicitados, de forma a suprir essas nec
 |Classificação|O algoritmo deve ser capaz de segmentar apenas o objeto de interesse na imagem|Funcional|
 |Integração|O algoritmo deve ser capaz de enviar o resultado da classificação para os outros sistemas componentes da máquina.|Funcional|
 |Resiliência|Quando ocorrer uma falha ou interrupção no processamento, o algoritmo deve ser capaz de informar os demais componentes, ou paralizar o processo como um todo|Funcional|
+|Classificação|O algoritmod deve ser capaz de realizar a classificação entre boas, excelentes e ok com base na área da fruta que está coberta por manchas|Funcional|
