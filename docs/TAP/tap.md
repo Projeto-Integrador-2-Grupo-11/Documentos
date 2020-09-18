@@ -52,7 +52,7 @@ Gustavo Barbosa Carvalho                  Coordenador               `gustavocarv
 Letícia Marinho de Souza                  Diretora de qualidade     
 Davi Henrique dos Santos                  Diretor de estrutura      
 Giovanna Amorim de Farias                 Diretora de eletrônica    
-Thiago Ferreira                           Diretor de software       
+Thiago Ferreira                           Diretor de software       `thiagoiferreira`
 Lucas Afonso Rodrigues Raimundo           Desenvolvedor             
 Beatriz Freitas Calheira                  Desenvolvedor             
 Camilla Alves de Oliveira                 Desenvolvedor             
@@ -66,6 +66,7 @@ Natália Maria Rodrigues Queiroz           Desenvolvedor
 
 .. _guilhermesiqueira: https://github.com/guilhermesiqueira
 .. _gustavocarvalho1002: https://github.com/gustavocarvalho1002
+.. _thiagoiferreira: https://github.com/thiagoiferreira
 ```
 
 ### Colaboradores
