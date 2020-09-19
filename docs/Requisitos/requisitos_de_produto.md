@@ -59,8 +59,18 @@ DAQUI PRA BAIXO CADA DIRETOR DEVE PEGAR SEUS RESPECTIVOS REQUISITOS DE ACORDO CO
 
 ## Estrutura e energia
 
-- Eu, como produtor, espero que haja uma economia para que os custos de operação não sejam altos
 - Eu, como produtor, espero que a máquina não vaze água durante sua operação
+- Eu, como produtor, espero que a fruta seja lavada pela máquina o suficiente para ser processada
+- Eu, como produtor, espero que o consumo de água seja o menor possível
+- Eu, como produtor, espero que a máquina possa ser ligada em qualquer ambiente
+- Eu, como operador, espero que a máquina não sofra panes elétricas
+- Eu, como produtor, espero que a alimentação da máquina seja a menor possível
+- Eu, como operador, espero que o sistema de lavagem não entupa
+- Eu, como produtor, espero que a água não saia suja para lavagem
+- Eu, como operador, espero que a montagem e desmontagem seja intuitiva
+- Eu, como operador, espero que a manutenção seja a mais simples possível
+- Eu, como produtor, espero que os componentes sejam factíveis de serem encontrados na minha região
+- Eu, como operador, espero que a máquina possa ser operada com o mínimo possível de pessoas
 
 ## Software
 -  Eu, como usuário, espero que a máquina seja capaz de fazer discernimento de qualidade, de forma comparável a um humano
