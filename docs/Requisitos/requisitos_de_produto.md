@@ -71,6 +71,7 @@ DAQUI PRA BAIXO CADA DIRETOR DEVE PEGAR SEUS RESPECTIVOS REQUISITOS DE ACORDO CO
 - Eu, como operador, espero que a manutenção seja a mais simples possível
 - Eu, como produtor, espero que os componentes sejam factíveis de serem encontrados na minha região
 - Eu, como operador, espero que a máquina possa ser operada com o mínimo possível de pessoas
+- O sistema de filtração necessita de manutenção periódica
 
 ## Software
 -  Eu, como usuário, espero que a máquina seja capaz de fazer discernimento de qualidade, de forma comparável a um humano
