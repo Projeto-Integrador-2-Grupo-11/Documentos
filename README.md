@@ -6,13 +6,13 @@ Repositório destinado para a documentação do projeto de todo o Grupo 11 da di
 |Nome|Matrícula|Engenharia|Papel|
 |---|--|--|--|
 |Lucas Afonso Rodrigues Raimundo|12/0125960|Automotiva|Desenvolvedor|
-|Camilla Alves de Oliveira|16/0003873|Eletrônica|Desenvolvedor|
-|Beatriz Freitas Calheira |16/0003032|Eletrônica|Desenvolvedor|
+|Camilla Alves de Oliveira|16/0003873|Eletrônica|Desenvolvedora|
+|Beatriz Freitas Calheira |16/0003032|Eletrônica|Desenvolvedora|
 |Giovanna Amorim de Farias|16/0007356|Eletrônica|Diretora de Eletrônica|
 |Guilherme Siqueira Brandão| 16/0007763|Software|Desenvolvedor|
 |Gustavo Barbosa Carvalho |16/0007780|Software|Coordenador Geral|
 |Maria Luiza Ferreira Assumpção Almeida|16/0014433|Software|Diretora de Software|
-|Natália Maria Rodrigues Queiroz|16/0015839|Software|Desenvolvedor|
+|Natália Maria Rodrigues Queiroz|16/0015839|Software|Desenvolvedora|
 |João pedro Gomes Cabral Ferreira| 14/0145842|Software|Desenvolvedor|
 |Thiago Ferreira| 15/0149948|Software|Desenvolvedor|
 |Matheus Henrique Almeida de Souza |16/0036569|Energia|Desenvolvedor|
