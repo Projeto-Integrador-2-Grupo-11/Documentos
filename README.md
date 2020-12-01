@@ -1,3 +1,37 @@
-# Bem Vindo
-Repositório destinado para a documentação do projeto
+# Bem-Vindo ao Seletor de Laranjas
 
+Repositório destinado para a documentação do projeto de todo o Grupo 11 da disciplina Projeto Integrador 2 da Universidade de Brasília (UnB) - Campus FGA, semestre 2020/1.
+
+### Equipe
+|Nome|Matrícula|Engenharia|Papel|
+|---|--|--|--|
+|Lucas Afonso Rodrigues Raimundo|12/0125960|Automotiva|Desenvolvedor|
+|Camilla Alves de Oliveira|16/0003873|Eletrônica|Desenvolvedor|
+|Beatriz Freitas Calheira |16/0003032|Eletrônica|Desenvolvedor|
+|Giovanna Amorim de Farias|16/0007356|Eletrônica|Diretora de Eletrônica|
+|Guilherme Siqueira Brandão| 16/0007763|Software|Desenvolvedor|
+|Gustavo Barbosa Carvalho |16/0007780|Software|Coordenador Geral|
+|Maria Luiza Ferreira Assumpção Almeida|16/0014433|Software|Diretora de Software|
+|Natália Maria Rodrigues Queiroz|16/0015839|Software|Desenvolvedor|
+|João pedro Gomes Cabral Ferreira| 14/0145842|Software|Desenvolvedor|
+|Thiago Ferreira| 15/0149948|Software|Desenvolvedor|
+|Matheus Henrique Almeida de Souza |16/0036569|Energia|Desenvolvedor|
+|Letícia Marinho de Souza| 16/0131898|Energia|Diretora de Qualidade|
+
+
+Todas as documentaçes e apresentaçes estão disponíveis nos links abaixo:
+
+### Ponto de Controle 1 
+[Relatório - PC1](https://drive.google.com/file/d/18j9-SYNgyIUS-WtS4NHe0O6QYvBNNcWx/view?usp=sharing)
+
+[Slides da Apresentação- PC1](https://docs.google.com/presentation/d/15gJrmiinGqDoBWLkSsvqtA2A6-0a5OMZqihFtfnwojk/edit?usp=sharing) 
+
+### Ponto de Controle 2
+[Relatório - PC2](https://drive.google.com/file/d/1dKO_6P-_7HIogEkFsI3zvTecFeGY4JJO/view?usp=sharing)
+
+[Slides da Apresentação- PC2](https://docs.google.com/presentation/d/1lLEcrgkeHGtxaDlYQKXzqmL7DYRdHPpItw2LchV_DKY/edit?usp=sharing) 
+
+### Ponto de Controle 3
+[Relatório - PC3](https://drive.google.com/file/d/1rfNGW2OtxaW_8wgvzr5m4yIJr2TiqhNd/view?usp=sharing)
+
+[Slides da Apresentação- PC3](https://docs.google.com/presentation/d/1AKGwCXgLcFG2aNCmQgDqKu8tNfcO3AM_-uMfQpx3DOM/edit?usp=sharing) 
