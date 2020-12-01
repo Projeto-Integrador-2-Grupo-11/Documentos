@@ -1,3 +1,0 @@
-# Custos energia
-| Material | Preço |
-| -- | -- | 
