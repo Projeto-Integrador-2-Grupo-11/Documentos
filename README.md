@@ -24,14 +24,14 @@ Todas as documentações e apresentações estão disponíveis nos links abaixo:
 ### Ponto de Controle 1 
 [Relatório - PC1](https://drive.google.com/file/d/18j9-SYNgyIUS-WtS4NHe0O6QYvBNNcWx/view?usp=sharing)
 
-[Slides da Apresentação- PC1](https://docs.google.com/presentation/d/15gJrmiinGqDoBWLkSsvqtA2A6-0a5OMZqihFtfnwojk/edit?usp=sharing) 
+[Apresentação- PC1](https://youtu.be/SuurY2ixpso) 
 
 ### Ponto de Controle 2
-[Relatório - PC2](https://drive.google.com/file/d/1dKO_6P-_7HIogEkFsI3zvTecFeGY4JJO/view?usp=sharing)
+[Relatório - PC2](https://youtu.be/_26pTALOWUE)
 
-[Slides da Apresentação- PC2](https://docs.google.com/presentation/d/1lLEcrgkeHGtxaDlYQKXzqmL7DYRdHPpItw2LchV_DKY/edit?usp=sharing) 
+[Apresentação- PC2](https://docs.google.com/presentation/d/1lLEcrgkeHGtxaDlYQKXzqmL7DYRdHPpItw2LchV_DKY/edit?usp=sharing) 
 
 ### Ponto de Controle 3
 [Relatório - PC3](https://drive.google.com/file/d/1rfNGW2OtxaW_8wgvzr5m4yIJr2TiqhNd/view?usp=sharing)
 
-[Slides da Apresentação- PC3](https://docs.google.com/presentation/d/1AKGwCXgLcFG2aNCmQgDqKu8tNfcO3AM_-uMfQpx3DOM/edit?usp=sharing) 
+[Apresentação- PC3](https://youtu.be/SGXvhl0zyb8) 
