@@ -1,6 +1,6 @@
 # Bem-Vindo ao Seletor de Laranjas
 
-Repositório destinado para a documentação do projeto de todo o Grupo 11 da disciplina Projeto Integrador 2 da Universidade de Brasília (UnB) - Campus FGA, semestre 2020/1.
+Repositório destinado para a documentação do projeto de todo o Grupo 11 (Seletor de Larnjas) da disciplina Projeto Integrador 2 da Universidade de Brasília (UnB) - Campus FGA, semestre 2020/1.
 
 ### Equipe
 |Nome|Matrícula|Engenharia|Papel|
