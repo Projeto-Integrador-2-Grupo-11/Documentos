@@ -19,7 +19,7 @@ Repositório destinado para a documentação do projeto de todo o Grupo 11 da di
 |Letícia Marinho de Souza| 16/0131898|Energia|Diretora de Qualidade|
 
 
-Todas as documentaçes e apresentaçes estão disponíveis nos links abaixo:
+Todas as documentações e apresentações estão disponíveis nos links abaixo:
 
 ### Ponto de Controle 1 
 [Relatório - PC1](https://drive.google.com/file/d/18j9-SYNgyIUS-WtS4NHe0O6QYvBNNcWx/view?usp=sharing)
