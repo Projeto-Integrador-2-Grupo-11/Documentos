@@ -38,3 +38,6 @@ Todas as documentações e apresentações estão disponíveis nos links abaixo:
 
 ### Simulação de Software
 [Simulação de Software](https://youtu.be/1NNr9DEPmfE)
+
+### Explicação do Uso do Dataset com o Keras
+[Dataset](https://youtu.be/KJ34-ry2MwY)
