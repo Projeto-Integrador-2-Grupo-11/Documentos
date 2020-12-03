@@ -21,6 +21,9 @@ Repositório destinado para a documentação do projeto de todo o Grupo 11 (Sele
 
 Todas as documentações e apresentações estão disponíveis nos links abaixo:
 
+## Apresentação do Projeto
+[Vídeo](https://youtu.be/_hg2XOgaucE) 
+
 ### Ponto de Controle 1 
 [Relatório - PC1](https://drive.google.com/file/d/18j9-SYNgyIUS-WtS4NHe0O6QYvBNNcWx/view?usp=sharing)
 
