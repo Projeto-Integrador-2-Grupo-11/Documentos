@@ -30,12 +30,12 @@ Todas as documentações e apresentações estão disponíveis nos links abaixo:
 [Apresentação- PC1](https://youtu.be/SuurY2ixpso) 
 
 ### Ponto de Controle 2
-[Relatório - PC2](https://youtu.be/_26pTALOWUE)
+[Relatório - PC2](https://docs.google.com/presentation/d/1lLEcrgkeHGtxaDlYQKXzqmL7DYRdHPpItw2LchV_DKY/edit?usp=sharing)
 
-[Apresentação- PC2](https://docs.google.com/presentation/d/1lLEcrgkeHGtxaDlYQKXzqmL7DYRdHPpItw2LchV_DKY/edit?usp=sharing) 
+[Apresentação- PC2](https://youtu.be/_26pTALOWUE) 
 
 ### Ponto de Controle 3
-[Relatório - PC3](https://drive.google.com/drive/folders/1jtJNC8xcUu3Cc35RqoqFt36e7NG5Lnjk)
+[Relatório - PC3](https://drive.google.com/file/d/13XGW00eBJ_tiY8QcoXO3NaxoJfh8QVit/view?usp=sharing)
 
 [Apresentação- PC3](https://youtu.be/SGXvhl0zyb8)
 
