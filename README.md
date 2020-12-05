@@ -35,7 +35,7 @@ Todas as documentações e apresentações estão disponíveis nos links abaixo:
 [Apresentação- PC2](https://docs.google.com/presentation/d/1lLEcrgkeHGtxaDlYQKXzqmL7DYRdHPpItw2LchV_DKY/edit?usp=sharing) 
 
 ### Ponto de Controle 3
-[Relatório - PC3](https://drive.google.com/file/d/1rfNGW2OtxaW_8wgvzr5m4yIJr2TiqhNd/view?usp=sharing)
+[Relatório - PC3](https://drive.google.com/drive/folders/1jtJNC8xcUu3Cc35RqoqFt36e7NG5Lnjk)
 
 [Apresentação- PC3](https://youtu.be/SGXvhl0zyb8)
 
